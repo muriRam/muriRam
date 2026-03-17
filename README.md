@@ -1,5 +1,6 @@
 👋 Hola, soy Muriel Ramello
-💻 Backend Developer | Node.js · NestJS . Java · Spring Boot ·
+💻 Backend Developer 
+| Node.js · NestJS . Java · Spring Boot ·
 
 📍 Buenos Aires, Argentina
 
@@ -7,7 +8,7 @@ Soy desarrolladora orientada a backend, con formación en sistemas y experiencia
 Me enfoco en escribir código limpio, estructurado y mantenible, aplicando buenas prácticas y arquitectura en capas. Me adapto rápido a nuevos entornos y disfruto resolver problemas complejos.
 
 🚀 Actualmente busco mi primera experiencia profesional como Backend Developer
------------------------------------------------------------------------------------------------------------------------------------------
+
 ⚙️ Stack Tecnológico
 
 Backend:
@@ -27,7 +28,8 @@ Git · GitHub · Slack
 
 Metodologías:
 SCRUM · trabajo en equipo · desarrollo ágil
------------------------------------------------------------------------------------------------------------------------------------------🚀 Proyectos Destacados
+
+🚀 Proyectos Destacados
 
 🏓 Smash Center (Full Stack)
 
@@ -63,6 +65,8 @@ Licenciatura en Sistemas – Universidad Nacional de Lanús
 - Estudiante avanzada (16/40 materias aprobadas)
 
 Soy Henry – Full Stack Web Developer 
------------------------------------------------------------------------------------------------------------------------------------------📫 Contacto
+
+
+📫 Contacto
 📧 Email: murivento@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/muriel-ramello-36ba3b333/
