@@ -10,9 +10,8 @@ Me enfoco en escribir código limpio, estructurado y mantenible, aplicando buena
 🚀 Actualmente busco mi primera experiencia profesional como Backend Developer
 
 ⚙️ Stack Tecnológico
-
 Backend:
-Node.js · NestJS · Express . Java · Spring Boot ·
+Node.js · NestJS · Express . Java · Spring Boot
 
 Bases de datos:
 PostgreSQL · MySQL · MongoDB
@@ -41,15 +40,6 @@ Qué hice:
 - Integración de envío de emails automáticos
 - Diseño de arquitectura backend y lógica de negocio
 🔗 Repositorio: https://github.com/SmashPF/Back-Smash-Center-PF  
-
-🛒 Backend E-commerce (Node.js)
-API backend para sistema de comercio electrónico.
-Qué hice:
-- Desarrollo de endpoints REST para productos, usuarios y órdenes
-- Implementación de autenticación con JWT
-- Manejo de base de datos relacional (PostgreSQL)
-- Estructuración del proyecto siguiendo buenas prácticas backend
-🔗 Repositorio: https://github.com/pi-rym/PM4BE-muriRam
 
 ☕ Sistema de Turnos (Java + Spring Boot)
 Aplicación backend con persistencia de datos.
