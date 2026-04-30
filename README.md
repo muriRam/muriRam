@@ -1,5 +1,5 @@
 👋 Hola, soy Muriel Ramello
-💻 Backend Developer 
+💻 Full Stack Developer 
 | Node.js · NestJS . Java · Spring Boot ·
 
 📍 Buenos Aires, Argentina
